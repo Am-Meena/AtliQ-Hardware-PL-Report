@@ -5,9 +5,13 @@ This repository holds Sales & Finance P&L reports for AtliQ Hardware for FY 2019
 
 🔧 **𝗧𝗼𝗼𝗹𝘀 𝗮𝗻𝗱 𝗦𝗸𝗶𝗹𝗹𝘀 𝗨𝘁𝗶𝗹𝗶𝘇𝗲𝗱**
 
-✔ **𝗘𝘅𝗰𝗲𝗹 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝘀** for advanced calculations 
-✔ **𝗣𝗶𝘃𝗼𝘁 𝗧𝗮𝗯𝗹𝗲𝘀** for comprehensive data summaries 
+✔ **𝗘𝘅𝗰𝗲𝗹 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝘀** for advanced calculations
+
+✔ **𝗣𝗶𝘃𝗼𝘁 𝗧𝗮𝗯𝗹𝗲𝘀** for comprehensive data summaries
+
 ✔ **𝗣𝗼𝘄𝗲𝗿 𝗤𝘂𝗲𝗿𝘆** for data cleaning and preparation
+
 ✔ **𝗗𝗔X** for creating measures and calculated columns for advanced analytics
+
 ✔ A strong focus on **𝗿𝗲𝗮𝗹-𝘄𝗼𝗿𝗹𝗱 𝗽𝗿𝗼𝗯𝗹𝗲𝗺-𝘀𝗼𝗹𝘃𝗶𝗻𝗴** throughout the projects
 
